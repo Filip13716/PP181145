@@ -12,4 +12,6 @@ int main()
     scanf("%f", &l2);
 
     printf("Przeciwprostokątna ma rozmiar: %f", sqrt(l1*l1+l2*l2));
+
+    return 0;
 }

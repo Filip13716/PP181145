@@ -13,4 +13,6 @@ int main()
     else wbw=liczba;
 
     printf("Wartość bezwzgędna z twojej liczby to: %f", wbw);
+
+    return 0;
 }

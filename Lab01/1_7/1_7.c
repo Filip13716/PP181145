@@ -8,4 +8,6 @@ int main()
     scanf("%f", &liczba);
 
     printf("%f", liczba*0.85);
+
+    return 0;
 }

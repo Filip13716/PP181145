@@ -7,4 +7,6 @@ int main()
 {
     system("chcp 65001");
     printf("To jest cytat: \"Często używam języka C.\"");
+
+    return 0;
 }
